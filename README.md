@@ -12,4 +12,6 @@ Abre la terminal en la carpeta raiz del proyecto y escribe:
 ```sh
 flutter packages get
 ```
+
+##
 ⌨️ con ❤️ por [rromaniz](https://github.com/rromaniz) 😊
