@@ -14,4 +14,4 @@ flutter packages get
 ```
 
 ##
-⌨️ con ❤️ por [rromaniz](https://github.com/rromaniz) 😊
+⌨️ por [rromaniz](https://github.com/rromaniz) 😊
