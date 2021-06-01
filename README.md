@@ -1,16 +1,10 @@
-# iam_rich
+# I'm Rich
 
-A new Flutter project.
+Una aplicación sencilla similar a la popular I'm Rich de la app store realizada en Flutter.
 
-## Getting Started
+## Construido con 🛠️
+Este proyecto esta realizado en Flutter  y es necesario que tengas estalado este framework para que puedas probarlo.
 
-This project is a starting point for a Flutter application.
+[Flutter](https://flutter.dev) - El framework web usado
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
