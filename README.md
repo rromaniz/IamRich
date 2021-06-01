@@ -7,4 +7,8 @@ Este proyecto esta realizado en Flutter  y es necesario que tengas estalado este
 
 [Flutter](https://flutter.dev) - El framework usado
 
-
+## Instalación 🚀
+Abre la terminal en la carpeta raiz del proyecto y escribe:
+```sh
+flutter packages get
+```
